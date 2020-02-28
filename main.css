@@ -1,0 +1,57 @@
+#snakes {
+   color: whitesmoke;
+   border: 10px solid yellow;
+   border-radius: 12px 
+}
+
+
+#Sharks {
+    color: whitesmoke;
+    border: 15px solid greenyellow;
+    border-radius: 20px
+    color fill black;
+
+}
+body {
+    height: 100%;
+    background-image: url("https://media1.giphy.com/media/13ONldD8IuWBGM/giphy.gif?cid=790b7611be4ba2534cf8c70ccdf58bdb76d2ad90fb222de8&rid=giphy.gif");
+    background-blend-mode: multiply;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: 70%;
+    margin: 10px;
+    color: whitesmoke;
+}
+
+.row {
+    border: 10px solid greenyellow;
+    border-radius: 12px;
+    padding: 10px;
+    color: whitesmoke;
+    font-size: 25px;
+    font-style: oblique;
+    
+}
+.row {
+    padding-block-end: 10px;
+    border: 10px solid greenyellow;
+}
+#className {
+    border: 15px solid greenyellow;
+    color: whitesmoke;
+    font-size: 25px;
+    font-style: oblique;
+}
+#listy {
+    border: 15px solid greenyellow;
+    color: whitesmoke;
+
+}
+.head {
+    border: 15px solid greenyellow;
+    color: rgb(230, 13, 13);
+}
+#spinner-grow spinner-grow-sm {
+    color: rgb(230, 13, 13);
+}
+
